@@ -7,8 +7,8 @@
 }
 
 body{
+    background-image: url(/Users/leona/myfirstclock/media/background.jpg);
     height: 100vh;
-    background-color: cornflowerblue;
     background-size: cover;
     display:flex;
     align-items: center;
